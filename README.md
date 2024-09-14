@@ -1,3 +1,5 @@
+###### Edit : Due to some context issue, my frontend folder is in another branch i.e. master branch. To view the frontend code, select the master branch in the header section.
+
 # Real Estate Listing Application
 A real estate listing application built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to sign up, log in, view properties and search properties.
 
